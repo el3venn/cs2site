@@ -1,0 +1,60 @@
+header{
+  background-color: blue;
+  padding: 5px;
+  margin: 0px;
+}
+h1{
+  color: grey;
+}
+a{
+  color: white;
+  font-size: 25;
+  text-decoration: none;
+  padding: 3px;
+}
+body{
+  wrap: wrap;
+  background-image: url('https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_back_long_s1.jpg');
+  background-size: 1200px;
+  background-repeat: no-repeat;
+}
+body h1{
+  color: white;
+   margin: 30px;
+}
+footer h2{
+  color: white;
+  text-align: center;
+}
+footer{
+  background-color: yellow;
+  padding: 5px;
+  margin-top: 300px;
+}
+body h1{
+  text-align: center
+  align-items: center;
+}
+.button{
+  background-color: grey;
+}
+.yooooo{
+  background-color: white;
+}
+.yooooo h1{
+  color: black;
+  font-size: 26;
+  text-align: center;
+}
+@media (max-width: 600px) {
+  header{
+   background-color: yellow; 
+  }
+footer{
+background-color: Indigo;
+}
+body{
+background-image: url('https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/nuke_default_s2.jpg');
+  background-size: cover;
+}
+}
