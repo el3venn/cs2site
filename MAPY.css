@@ -37,3 +37,10 @@ img{
   display: flex;
   wrap: wrap;
 }
+@media (max-width: 600px) {
+  header{
+   background-color: yellow; 
+  }
+footer{
+background-color: Indigo;
+}
