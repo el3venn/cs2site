@@ -2,7 +2,7 @@ body{
   background-color: white;
 }
 header{
-  background-color: blue;
+  background-color: indigo;
   padding: 5px;
   display: flex;
   justify-content: space-between;
