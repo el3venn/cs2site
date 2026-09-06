@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+}
+header{
+  background-color: blue;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+h2{
+  color: white;
+}
+a{
+  color: white;
+  font-size: 22;
+  text-decoration: none;
+}
+footer{
+background-color: yellow;
+  padding: 8px;
+  margin-top: 350px;
+}
+h3{
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+main{
+  display: flex;
+  wrap: wrap;
+  justify-content: space-between;
+}
+img{
+  margin: 10px;
+}
+.a{
+  display: flex;
+  wrap: wrap;
+}
