@@ -41,6 +41,10 @@ img{
   header{
    background-color: yellow; 
   }
+  body{
+    background-image:('');
+    background-size: cover;
+  }
 footer{
 background-color: Indigo;
 }
