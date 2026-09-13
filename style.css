@@ -17,7 +17,7 @@ body{
   background-image: url('https://cdn.akamai.steamstatic.com/apps/csgo/images/csgo_react/cs2/maps/overpass_back_long_s1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  
+  background-position: center
 }
 body h1{
   color: white;
